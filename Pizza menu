@@ -1,0 +1,37 @@
+<doctype html>
+  
+  <head>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body>
+    
+    <div class="header">
+    <h1>Pizza!</h1>
+    </div>
+      
+    <div>
+    <img src="https://www.southernliving.com/thmb/UuflED14dkNrrm-TFbkz42Z5mRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sl_supremepizza_00072-2000-4cab71bd67774233b45f05e4e32fdfde.jpg"/>    
+      
+</div>
+    
+    <p> These are our excellent pizzas</p>
+    
+    <div>
+    <ol><li> Pepperoni</li>
+    <li> Sausage </li>
+    <li>  Cheese </li>
+      <li>  Anchovy</li>
+   
+    </ol>
+    </div>
+    
+    <div class="footer">
+      <h6> copyright Casey Kuhn 2023</h6>
+    </div>
+    
+    
+    
+  </body>
+  
+  
